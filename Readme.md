@@ -4,9 +4,9 @@ This repository presents all the code used in the experimentation section of _Ev
 
 1. data
 2. results
- - adult
- - acspubcov
- - mnist
+   - adult
+   - acspubcov
+   - mnist
 3. all other files
 
 The data folder houses all the data used in the experimentation. The results folder contains three separate folders (adult, acspubcov, mnist) each of which correspond to the output folder of the specific dataset. For example, _results/adult_ will contain the pickled results for adult-labels-flc.ipynb and adult-labels.ipynb. All of the jupyter notebook files are self contained, and should be able to run without modification. The name of the file details which dataset it uses, and whether randomization is applied to the features, the labels, or the features and labels, or if forward loss correction is applied. 
