@@ -1,6 +1,6 @@
 ## Evaluating the Impact of Local Differential Privacy on Utility Loss via Influence Functions
 
-This repository presents all the code used in the experimentation section of _Evaluating the Impact of Local Differential Privacy on Utility Loss via Influence Functions_ which is currently under review for SDM '24. This repository is broken down into three sections:
+This repository presents all the code used in the experimentation section of _Evaluating the Impact of Local Differential Privacy on Utility Loss via Influence Functions_ published in IJCNN 2024. This repository is broken down into three sections:
 
 1. data
 2. results
